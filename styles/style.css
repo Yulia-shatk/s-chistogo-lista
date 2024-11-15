@@ -3,6 +3,7 @@ body {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     background-color: #1e1e1e;
+    
 }
     
     h1,
@@ -31,6 +32,7 @@ body {
 }
 .header_logo {
     background-image: url(../image/VЁRSTKA.svg); 
+ 
 }  
 
 .heder_image_verstka { 
@@ -42,6 +44,7 @@ body {
     justify-content:end;
     background-image: url(../image/VЁRSTKA.svg); 
     background-repeat: no-repeat; 
+
 }    
 
 .header__menu-list {
@@ -83,9 +86,8 @@ body {
     background-image: url(../image/cover.png);
     background-repeat: no-repeat;
 }
-
 .intro_heading {
-    color: #CCC;
+    color: #CCC;   
     font-family: 'Inter', sans-serif; 
     display: flex;
     justify-content: space-between; 
@@ -157,13 +159,14 @@ body {
 
 .content_introduction {
     margin: 32px 20px ;
+    
 }
-
 .grey_card {
     background-color: #343434;  
     padding: 20px 21px 32px 20px; 
     border-radius: 30px;
     list-style: none; 
+    
 }  
     
 .img_pol {
@@ -183,7 +186,7 @@ body {
     font-size: 22px;
 }
 
-.yellow_card {
+.yellow_card {   
     background-color: #FEE42A;
     color: #1e1e1e;  
     padding: 20px; 
