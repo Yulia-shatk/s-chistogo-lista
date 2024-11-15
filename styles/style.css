@@ -3,7 +3,6 @@ body {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     background-color: #1e1e1e;
-    
 }
     
     h1,
@@ -19,20 +18,22 @@ body {
         margin: 0;
         padding: 0;
 } 
+
 .content_body {
     box-sizing: border-box;
     width: 100%;
     max-width: 360px;
     margin: auto;
 }
+
 .header,.main_one,.main_black {
     background-color: black;
     color:white;
     padding: 20px;
 }
+
 .header_logo {
     background-image: url(../image/VЁRSTKA.svg); 
- 
 }  
 
 .heder_image_verstka { 
@@ -44,7 +45,6 @@ body {
     justify-content:end;
     background-image: url(../image/VЁRSTKA.svg); 
     background-repeat: no-repeat; 
-
 }    
 
 .header__menu-list {
@@ -53,6 +53,7 @@ body {
     flex-direction: column;
     row-gap: 12px;
 }
+
 .header__menu-link {
     font-size: 16px;
     line-height: 1.2;
@@ -71,21 +72,24 @@ body {
 .span_start {
     align-self:self-start;
 }
+
 .text-center {
     align-self:center;
 }
+
 .text-right {
     align-self: flex-end;
 }
 
 .section_about {
     padding: 30px 0 38px ;
-    
 } 
+
 .section_cover {
     background-image: url(../image/cover.png);
     background-repeat: no-repeat;
 }
+
 .intro_heading {
     color: #CCC;   
     font-family: 'Inter', sans-serif; 
@@ -98,6 +102,7 @@ body {
     font-weight: 400;
     font-size: 16px;
 } 
+
 .intro__date {
     font-size: 16px;
     font-weight: 400;
@@ -108,10 +113,12 @@ body {
 .intro_text_one {
     padding: 24px 0 24px;
 }
+
 .main_yellow {
     background-color: #FEE42A;
     padding: 20px;
 }
+
 .title_yellow {
     display:flex;
     flex-direction: column;
@@ -121,9 +128,11 @@ body {
     line-height: 1;
     padding: 40px 0 32px;
 }
+
 .span_text_right {
     align-self:flex-end;
 }
+
 .span_text_left {
     align-self:flex-start;
 }
@@ -132,6 +141,7 @@ body {
     font-weight: 400;
     font-size: 20px;
 }
+
 .list_yellow {
     margin: 32px 0 39px;
 }
@@ -149,24 +159,24 @@ body {
     line-height: 1;
     padding: 40px 20px 0px;
 }
+
 .how_end {
     align-self:flex-end;
 }
+
 .how_start {
     align-self:flex-start;
 }
 
-
 .content_introduction {
     margin: 32px 20px ;
-    
 }
+
 .grey_card {
     background-color: #343434;  
     padding: 20px 21px 32px 20px; 
     border-radius: 30px;
     list-style: none; 
-    
 }  
     
 .img_pol {
@@ -179,6 +189,7 @@ body {
     font-family: 'Inter', sans-serif;
     font-weight: 700;
 }
+
 .card_title {
     margin: 8px 0;
     font-family: 'EB Garamond', serif;
@@ -194,6 +205,7 @@ body {
     list-style: none;  
     margin: 32px auto;
 }
+
 .footer {
     background-color: black;
     display: flex;
@@ -203,6 +215,7 @@ body {
     padding: 20px;
     color: #f5f5f5;
 }
+
 .footer_link {
     display: flex;
     gap: 16px;
