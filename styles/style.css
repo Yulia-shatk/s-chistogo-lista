@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
-    background-color: #1e1e1e; 
+    background-color: #1e1e1e;
     max-width: 360px;
 }
 
@@ -25,7 +25,7 @@ blockquote {
     width: 360px;
     margin: auto;
 }
-.main_cover{
+.main_cover {
     background-color: black;
 }
 .section_cover,.section_about,.main_black {
@@ -34,7 +34,7 @@ blockquote {
     margin: 0 20px;
     padding: 30px 0;
 }
-.header{
+.header {
     background-color: black;
     color: white;
     padding: 20px;
@@ -113,7 +113,7 @@ blockquote {
     font-size: 16px;
     line-height: 1.2;
 }
-h2{
+h2 {
     font-weight: normal;
     font-size: 16px;
 }
@@ -165,11 +165,11 @@ h2{
 .list_yellow {
     margin: 32px 10px 39px;
 }
-.text_bold{
+.text_bold {
     font-weight: 700;
 }
 
-.content_list{
+.content_list {
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -213,7 +213,7 @@ h2{
     width: 100px;
     border-radius: 50%;
 }
-.cards_list{
+.cards_list {
     display: flex;
     flex-direction: column;
     gap: 32px;
@@ -231,7 +231,7 @@ h2{
     font-weight: 500;
     font-size: 22px;
 }
-.card_text{
+.card_text {
     font-size: 16px;
     line-height: 1.35;
 }
